@@ -1,0 +1,2 @@
+shoot.html filter=lfs diff=lfs merge=lfs -text
+shoot/shoot.html filter=lfs diff=lfs merge=lfs -text
